@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ясно — киберграмотность без тумана",
+      "hasCanvas": false,
+      "bodyTextLen": 1915,
+      "bodyTextHash": "a198a353e698e6dc49f84035e516cd473e6b836e63c69f308a41251465c616c6",
+      "bodyTextPrefix": "К содержанию Ясно Главная Курсы Проверка Материалы Автор Вопросы",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ясно — киберграмотность без тумана",
+      "hasCanvas": false,
+      "bodyTextLen": 1870,
+      "bodyTextHash": "e46da551ef925d53d9ca38708ba490d90597b55f9a76d6a12fd27493b812e296",
+      "bodyTextPrefix": "К содержанию Ясно ☰ КИБЕРГРАМОТНОСТЬ БЕЗ ТУМАНА И ПАНИКИ Смотрит",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
